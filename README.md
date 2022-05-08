@@ -1,3 +1,5 @@
+<h3>🛠 Tech Stack</h3>
+
 - 💻 &nbsp; C++ | Python | Java 
 - 🤖 &nbsp; PyTorch | NumPy | SciPy | Pandas
 - ⚙️ &nbsp; Git | Linux | AWS | Azure | GCP
