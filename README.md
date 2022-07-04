@@ -3,4 +3,4 @@
 - 💻 &nbsp; C++ | Python | Java 
 - 🤖 &nbsp; PyTorch | NumPy | SciPy | Sklearn | Pandas
 - ⚙️ &nbsp; Git | Linux | AWS | Azure | GCP
-- 📘 &nbsp; Numerical Linear Algebra | Statistical Inference | Stochastic Modelling
+- 📘 &nbsp; NLP | Numerical Linear Algebra | Stochastic Modelling
