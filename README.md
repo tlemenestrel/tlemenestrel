@@ -4,4 +4,4 @@
 - 🤖 &nbsp; PyTorch | TensorFlow | HuggingFace | NLTK | spaCy | Scikit-Learn | PyFlux | NumPy | SciPy
 - ⚙️ &nbsp; Numerical Linear Algebra | Stochastic Methods | Statistical Inference
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlemenestrel&layout=compact&langs_count=5&hide=jupyter%20notebook) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlemenestrel&layout=compact&langs_count=5&hide=jupyter%20notebook)   
